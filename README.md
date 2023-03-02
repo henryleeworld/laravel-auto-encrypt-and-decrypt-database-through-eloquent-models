@@ -1,4 +1,4 @@
-# Laravel 9 透過 Eloquent 模型自動加密和解密資料庫資料
+# Laravel 10 透過 Eloquent 模型自動加密和解密資料庫資料
 
 引入 elgibor-solution 的 laravel-database-encryption 套件來擴增透過 Eloquent 模型自動加密和解密資料庫資料，更同時包含可搜尋加密資料。由於資料外洩與駭客攻擊事件層出不窮，政府與企業均積極評估如何運用資料加密技術針對機敏或價值資料提供完善的保護，並符合遵循法規及管理需求。
 
